@@ -1,0 +1,6 @@
+INSERT INTO Position (name, description) VALUES ('Private', 'Without rank and insignia');
+INSERT INTO Position (name, description) VALUES ('Specialist', 'Military lyceum graduate');
+INSERT INTO Position (name, description) VALUES ('Corporal', 'Something about Corporal');
+INSERT INTO Position (name, description) VALUES ('Sergeant', 'Something about Sergeant');
+INSERT INTO Position (name, description) VALUES ('Staff sergeant', 'Something about Staff sergeant');
+INSERT INTO Position (name, description) VALUES ('Master Sergeant', 'Something about Master Sergeant');

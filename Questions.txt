@@ -1,0 +1,10 @@
+INSERT INTO Questions (Question_text) VALUES ('A young girl was about to commit suicide by jumping from a bridge. At this moment, you pass by and see her. Your reaction:');
+INSERT INTO Questions (Question_text) VALUES ('A beggar, dressed in rags, sticks to you in the street and plaintively asks for money:');
+INSERT INTO Questions (Question_text) VALUES ('Out of the corner of your eye, you notice a huge spider crawling along the wall:');
+INSERT INTO Questions (Question_text) VALUES ('What words come to your mind when you think of your mother?');
+INSERT INTO Questions (Question_text) VALUES ('You are at the farm. You need to feed the pigs. Suddenly the animals push you and you fall straight into the mud. In a rage, you whip out a kitchen knife and injure a nearby pig. The animal screams heart-rendingly, you stand in blood ...');
+INSERT INTO Questions (Question_text) VALUES ('You have come across a book about hunting with illustrations. You look at it and suddenly realize that you like the photographs of the killed animals. You start flipping page by page. Each subsequent photo of the bloody previous ...');
+INSERT INTO Questions (Question_text) VALUES ('You are in the army. There you endure hardship, humiliation from sergeants. You are forced to eat live worms ...');
+INSERT INTO Questions (Question_text) VALUES ('Suddenly you feel the urge to commit suicide.');
+INSERT INTO Questions (Question_text) VALUES ('You return home and see that you have been robbed.');
+INSERT INTO Questions (Question_text) VALUES ('You dine with friends. You've been served a delicacy - the brain of a live monkey. What will you do?');

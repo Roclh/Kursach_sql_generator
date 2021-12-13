@@ -1,0 +1,10 @@
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (FALSE,'Killed a human','Killed a human just of a little anger');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (TRUE,'Helped homeless with money','Some homeless guy was sitting on the streets, he gave him some money');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (TRUE,'Saved an animal','Helped a little bird to stay alive');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (FALSE,'Lit a house','Lit a house of a replicant that killed his daughter');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (TRUE,'Saved a child from the fire','Got into the fire and helped to get her out');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (FALSE,'Eaten a human','Trapped a helpless human and eaten him');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (TRUE,'Fed little hungry girl','Gave his own last food to a little girl from streets');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (FALSE,'Murdered a child','Kidnapped and murdered a child');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (TRUE,'Fall in love','Tried to get married');
+INSERT INTO Action (benefit_of_harm,name,description) VALUES (FALSE,'Raped a replicant','Found a hooker and raped her in the streets');

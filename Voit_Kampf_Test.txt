@@ -1,0 +1,2 @@
+INSERT INTO Voit_Kampf_Test (entity_id, eye_movement, brain_reaction, completion_date, result) VALUES(68, true, false, '2048-05-18', false)
+INSERT INTO Voit_Kampf_Test (entity_id, eye_movement, brain_reaction, completion_date, result) VALUES(68, true, true, '2049-02-14', true)

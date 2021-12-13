@@ -1,0 +1,2 @@
+INSERT INTO Blade_Runners_HQ (location_id, description) VALUES (48, "The Los Angeles Blade Runners HQ");
+INSERT INTO Blade_Runners_HQ (location_id, description) VALUES (72, "The New York Blade Runners HQ");
